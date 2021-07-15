@@ -4,3 +4,5 @@
 - couple of seed potatos
 
 AMMEND CHANGE! 
+
+NEW change for git branching!!! this is in shoppieshop
